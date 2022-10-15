@@ -1,4 +1,4 @@
-# Emergency-Room
+# Emergency Room
 Simulation of an Emergency Room using priority queue, hash map, and heaps
 
 Imagine the emergency room (ER) of a hospital. Patients who come to the ER are assessed (triage). We
